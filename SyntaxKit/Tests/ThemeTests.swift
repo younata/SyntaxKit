@@ -13,7 +13,7 @@ class ThemeTests: XCTestCase {
 
 	// MARK: - Properties
 
-	let tomorrow = tomorrowTheme()
+	let tomorrow = theme("Tomorrow")
 
 
 	// MARK: - Tests

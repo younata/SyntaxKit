@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2198CEC91B36D5D700BD463F"
-               BuildableName = "SyntaxKit-watchOS.framework"
+               BuildableName = "SyntaxKit.framework"
                BlueprintName = "SyntaxKit-watchOS"
                ReferencedContainer = "container:SyntaxKit.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2198CEC91B36D5D700BD463F"
-            BuildableName = "SyntaxKit-watchOS.framework"
+            BuildableName = "SyntaxKit.framework"
             BlueprintName = "SyntaxKit-watchOS"
             ReferencedContainer = "container:SyntaxKit.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2198CEC91B36D5D700BD463F"
-            BuildableName = "SyntaxKit-watchOS.framework"
+            BuildableName = "SyntaxKit.framework"
             BlueprintName = "SyntaxKit-watchOS"
             ReferencedContainer = "container:SyntaxKit.xcodeproj">
          </BuildableReference>
